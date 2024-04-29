@@ -35,3 +35,17 @@
 
 ### [2024-04-28]
 - Brief study about React Native Packages.
+
+### [2024-04-29]
+https://reactnative.dev/
+
+- Third Party Package 
+  
+  (https://reactnative.directory/?search=storage)
+  (https://docs.expo.dev/versions/latest/)
+
+- Installed expo-location
+
+    ```
+    npm install expo-location
+    ```
