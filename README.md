@@ -32,3 +32,6 @@
     ```
 - Trouble shooting (https://velog.io/@st4889/React-native-TILnpm-start)
 - QR Code scan.
+
+### [2024-04-28]
+- Brief study about React Native Packages.
