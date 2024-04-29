@@ -5,7 +5,7 @@ import * as Location from 'expo-location';
 const { width: SCREEN_WIDTH } = Dimensions.get('window');
 
 // openweather API KEY (https://openweathermap.org/api)
-const API_KEY = "b227d6258c9066c2addb04cb5a6218b0";
+const API_KEY = "";
 
 export default function App() {
   const [city, setCity] = useState("Loading...");
