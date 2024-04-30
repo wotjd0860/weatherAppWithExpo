@@ -1,7 +1,7 @@
 # React Native Practice with Expo
 
 ## General Information
-- Period : 2024-04-26 ~ 
+- Period : 2024-04-26 ~ 2024-04-30
 - Member : Jaeseong Park
 
 ## Skills
@@ -49,3 +49,6 @@ https://reactnative.dev/
     ```
     npm install expo-location
     ```
+
+### [2024-04-30]
+- Icons (https://icons.expo.fyi/Index)
